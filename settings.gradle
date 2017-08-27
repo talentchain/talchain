@@ -1,0 +1,3 @@
+rootProject.name = "talchain"
+include "ethereumj-core"
+
